@@ -1,0 +1,10 @@
+{
+  "client": {
+    "version": "1.0.1",
+    "url": "https://www.dropbox.com/scl/fi/6yeriihtg95q8jk0zvtg1/client.zip?rlkey=zcxczs7yfokb6tdonryzoksxt&st=bvls4cfh&dl=1"
+  },
+  "jdk": {
+    "version": "17.0.12",
+    "url": "https://github.com/JOCKANA/vibeclientfiles/releases/download/xz/jdk.zip"
+  }
+}
