@@ -1,10 +1,10 @@
 {
   "client": {
-    "version": "1.0.3",
-    "url": "https://www.dropbox.com/scl/fi/6yeriihtg95q8jk0zvtg1/client.zip?rlkey=zcxczs7yfokb6tdonryzoksxt&st=bvls4cfh&dl=1"
+    "version": "1.0.4",
+    "url": "https://www.dropbox.com/scl/fi/6yeriihtg95q8jk0zvtg1/client.zip?rlkey=zcxczs7yfokb6tdonryzoksxt&st=3nypujk0&dl=1"
   },
   "jdk": {
-    "version": "17.0.12",
-    "url": "https://github.com/JOCKANA/vibeclientfiles/releases/download/xz/jdk.zip"
+    "version": "20.0.0",
+    "url": "https://www.dropbox.com/scl/fi/0flzq480l92ab5hujkxn5/jdk.zip?rlkey=g7d75kcom9axin1yonu8ujtkf&st=1n288vzz&dl=1"
   }
 }
