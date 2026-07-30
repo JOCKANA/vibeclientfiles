@@ -1,10 +1,10 @@
 {
   "client": {
-    "version": "1.0",
-    "url": "https://www.dropbox.com/scl/fi/hgz8xfbwrvml6kugb5vyw/client.zip?rlkey=fjj0v3lv7qxkiqobd96j8y3gr&st=5t65s9we&dl=1"
+    "version": "1.1",
+    "url": "https://www.dropbox.com/scl/fi/dqtkb64mhd6qib2kso7yu/client.zip?rlkey=o00nam0226vvjss33qrwu2y1s&st=kfkw0d57&dl=1"
   },
   "jdk": {
-    "version": "21.0.0",
-    "url": "https://www.dropbox.com/scl/fi/4nh4qb1fvvjge9omdp9kj/jdk.zip?rlkey=p8t22p3o8yzgck83q8f7dkh0t&st=tm3umibz&dl=1"
+    "version": "22",
+    "url": "https://www.dropbox.com/scl/fi/rbytiub98ja1i7ees9i24/jdk.zip?rlkey=29tdq4phsekb9knimoejch5mh&st=fzgzun5g&dl=1"
   }
 }
